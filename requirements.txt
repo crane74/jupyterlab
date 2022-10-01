@@ -1,0 +1,42 @@
+###### Requirements without Version Specifiers ######
+
+# JupyterLab関連のパッケージ（いくつかの拡張機能を含む）
+  black
+  isort
+  jupyterlab
+  jupyterlab_code_formatter
+  jupyterlab-git
+  lckr-jupyterlab-variableinspector
+  # jupyterlab_tensorboard
+  jupyterlab-nvdashboard
+  jupyterlab_widgets
+  # jupyterlab-lsp
+  # jupyterlab_tabnine
+  ipywidgets
+  import-ipynb
+
+# Pythonでよく利用する基本的なパッケージ
+# JupyterLabの動作には影響しない
+  numpy
+  pandas
+  scipy
+  scikit-learn
+  pycaret
+  matplotlib
+  japanize_matplotlib
+  mlxtend
+  seaborn
+  plotly
+  requests
+  beautifulsoup4
+  Pillow
+  opencv-python
+  pydeps
+  graphviz
+  pandas_profiling
+  shap
+  umap
+  xgboost
+  lightgbm
+
+###### Requirements with Version Specifiers ######`
